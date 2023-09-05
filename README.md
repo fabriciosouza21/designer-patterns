@@ -2,6 +2,9 @@ This repository is based on the studies conducted on the website https://refacto
 
 ## Creational Patterns
 
+### Builder
+builder is a creationa design pattern, which allows constructing complex objects step by step
+
 ## Structural Patterns
 
 ## Behavioral Patterns

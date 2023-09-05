@@ -1,4 +1,4 @@
-#Filteing acess
+# Filteing acess
 
 this examples shows how a request contaning user data passes a sequential chain of handlers that perform various things such as **authentication, authorization, and validation**.
 
