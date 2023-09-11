@@ -16,4 +16,7 @@ Here are some examples of the pattern:
 - javax.servlet.Filter#dofilter()
 - java.util.logging.logger#log()
 
+### Strategy
+the pattern defines a family of algorithms, put each of them into a separate class, and make their objects interchangeable.
+
 
